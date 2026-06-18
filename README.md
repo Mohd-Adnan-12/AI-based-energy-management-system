@@ -76,7 +76,7 @@ energy_ai/
 ├── README.md
 │
 ├── src/                    ← Core modules
-│   ├── __init__.py
+│   ├── __pycache__
 │   ├── preprocess.py       ← Data loading, cleaning, resampling
 │   ├── features.py         ← Feature engineering
 │   ├── anomaly.py          ← Isolation Forest model
